@@ -1,0 +1,457 @@
+[
+    {
+        "Name": "Articuno",
+        "Type_1": "Ice",
+        "Type_2": "Flying",
+        "Generation": 1,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Zapdos",
+        "Type_1": "Electric",
+        "Type_2": "Flying",
+        "Generation": 1,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Moltres",
+        "Type_1": "Fire",
+        "Type_2": "Flying",
+        "Generation": 1,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Mewtwo",
+        "Type_1": "Psychic",
+        "Type_2": "",
+        "Generation": 1,
+        "Legendary": "True"
+    },
+    {
+        "Name": "MewtwoMega Mewtwo X",
+        "Type_1": "Psychic",
+        "Type_2": "Fighting",
+        "Generation": 1,
+        "Legendary": "True"
+    },
+    {
+        "Name": "MewtwoMega Mewtwo Y",
+        "Type_1": "Psychic",
+        "Type_2": "",
+        "Generation": 1,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Raikou",
+        "Type_1": "Electric",
+        "Type_2": "",
+        "Generation": 2,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Entei",
+        "Type_1": "Fire",
+        "Type_2": "",
+        "Generation": 2,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Suicune",
+        "Type_1": "Water",
+        "Type_2": "",
+        "Generation": 2,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Lugia",
+        "Type_1": "Psychic",
+        "Type_2": "Flying",
+        "Generation": 2,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Ho-oh",
+        "Type_1": "Fire",
+        "Type_2": "Flying",
+        "Generation": 2,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Regirock",
+        "Type_1": "Rock",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Regice",
+        "Type_1": "Ice",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Registeel",
+        "Type_1": "Steel",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Latias",
+        "Type_1": "Dragon",
+        "Type_2": "Psychic",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "LatiasMega Latias",
+        "Type_1": "Dragon",
+        "Type_2": "Psychic",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Latios",
+        "Type_1": "Dragon",
+        "Type_2": "Psychic",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "LatiosMega Latios",
+        "Type_1": "Dragon",
+        "Type_2": "Psychic",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Kyogre",
+        "Type_1": "Water",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "KyogrePrimal Kyogre",
+        "Type_1": "Water",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Groudon",
+        "Type_1": "Ground",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "GroudonPrimal Groudon",
+        "Type_1": "Ground",
+        "Type_2": "Fire",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Rayquaza",
+        "Type_1": "Dragon",
+        "Type_2": "Flying",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "RayquazaMega Rayquaza",
+        "Type_1": "Dragon",
+        "Type_2": "Flying",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Jirachi",
+        "Type_1": "Steel",
+        "Type_2": "Psychic",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "DeoxysNormal Forme",
+        "Type_1": "Psychic",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "DeoxysAttack Forme",
+        "Type_1": "Psychic",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "DeoxysDefense Forme",
+        "Type_1": "Psychic",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "DeoxysSpeed Forme",
+        "Type_1": "Psychic",
+        "Type_2": "",
+        "Generation": 3,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Uxie",
+        "Type_1": "Psychic",
+        "Type_2": "",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Mesprit",
+        "Type_1": "Psychic",
+        "Type_2": "",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Azelf",
+        "Type_1": "Psychic",
+        "Type_2": "",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Dialga",
+        "Type_1": "Steel",
+        "Type_2": "Dragon",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Palkia",
+        "Type_1": "Water",
+        "Type_2": "Dragon",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Heatran",
+        "Type_1": "Fire",
+        "Type_2": "Steel",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Regigigas",
+        "Type_1": "Normal",
+        "Type_2": "",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "GiratinaAltered Forme",
+        "Type_1": "Ghost",
+        "Type_2": "Dragon",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "GiratinaOrigin Forme",
+        "Type_1": "Ghost",
+        "Type_2": "Dragon",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Darkrai",
+        "Type_1": "Dark",
+        "Type_2": "",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "ShayminLand Forme",
+        "Type_1": "Grass",
+        "Type_2": "",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "ShayminSky Forme",
+        "Type_1": "Grass",
+        "Type_2": "Flying",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Arceus",
+        "Type_1": "Normal",
+        "Type_2": "",
+        "Generation": 4,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Victini",
+        "Type_1": "Psychic",
+        "Type_2": "Fire",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Cobalion",
+        "Type_1": "Steel",
+        "Type_2": "Fighting",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Terrakion",
+        "Type_1": "Rock",
+        "Type_2": "Fighting",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Virizion",
+        "Type_1": "Grass",
+        "Type_2": "Fighting",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "TornadusIncarnate Forme",
+        "Type_1": "Flying",
+        "Type_2": "",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "TornadusTherian Forme",
+        "Type_1": "Flying",
+        "Type_2": "",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "ThundurusIncarnate Forme",
+        "Type_1": "Electric",
+        "Type_2": "Flying",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "ThundurusTherian Forme",
+        "Type_1": "Electric",
+        "Type_2": "Flying",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Reshiram",
+        "Type_1": "Dragon",
+        "Type_2": "Fire",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Zekrom",
+        "Type_1": "Dragon",
+        "Type_2": "Electric",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "LandorusIncarnate Forme",
+        "Type_1": "Ground",
+        "Type_2": "Flying",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "LandorusTherian Forme",
+        "Type_1": "Ground",
+        "Type_2": "Flying",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Kyurem",
+        "Type_1": "Dragon",
+        "Type_2": "Ice",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "KyuremBlack Kyurem",
+        "Type_1": "Dragon",
+        "Type_2": "Ice",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "KyuremWhite Kyurem",
+        "Type_1": "Dragon",
+        "Type_2": "Ice",
+        "Generation": 5,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Xerneas",
+        "Type_1": "Fairy",
+        "Type_2": "",
+        "Generation": 6,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Yveltal",
+        "Type_1": "Dark",
+        "Type_2": "Flying",
+        "Generation": 6,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Zygarde50% Forme",
+        "Type_1": "Dragon",
+        "Type_2": "Ground",
+        "Generation": 6,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Diancie",
+        "Type_1": "Rock",
+        "Type_2": "Fairy",
+        "Generation": 6,
+        "Legendary": "True"
+    },
+    {
+        "Name": "DiancieMega Diancie",
+        "Type_1": "Rock",
+        "Type_2": "Fairy",
+        "Generation": 6,
+        "Legendary": "True"
+    },
+    {
+        "Name": "HoopaHoopa Confined",
+        "Type_1": "Psychic",
+        "Type_2": "Ghost",
+        "Generation": 6,
+        "Legendary": "True"
+    },
+    {
+        "Name": "HoopaHoopa Unbound",
+        "Type_1": "Psychic",
+        "Type_2": "Dark",
+        "Generation": 6,
+        "Legendary": "True"
+    },
+    {
+        "Name": "Volcanion",
+        "Type_1": "Fire",
+        "Type_2": "Water",
+        "Generation": 6,
+        "Legendary": "True"
+    }
+]
