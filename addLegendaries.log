@@ -1,0 +1,803 @@
+2024-05-17 13:53:36 Sucessfully created Pokemon table
+2024-05-17 13:53:36 Bulbasaur added to the DB successfully
+2024-05-17 13:53:36 Ivysaur added to the DB successfully
+2024-05-17 13:53:36 Venusaur added to the DB successfully
+2024-05-17 13:53:36 VenusaurMega Venusaur added to the DB successfully
+2024-05-17 13:53:36 Charmander added to the DB successfully
+2024-05-17 13:53:36 Charmeleon added to the DB successfully
+2024-05-17 13:53:36 Charizard added to the DB successfully
+2024-05-17 13:53:36 CharizardMega Charizard X added to the DB successfully
+2024-05-17 13:53:36 CharizardMega Charizard Y added to the DB successfully
+2024-05-17 13:53:36 Squirtle added to the DB successfully
+2024-05-17 13:53:36 Wartortle added to the DB successfully
+2024-05-17 13:53:36 Blastoise added to the DB successfully
+2024-05-17 13:53:36 BlastoiseMega Blastoise added to the DB successfully
+2024-05-17 13:53:36 Caterpie added to the DB successfully
+2024-05-17 13:53:36 Metapod added to the DB successfully
+2024-05-17 13:53:36 Butterfree added to the DB successfully
+2024-05-17 13:53:36 Weedle added to the DB successfully
+2024-05-17 13:53:36 Kakuna added to the DB successfully
+2024-05-17 13:53:36 Beedrill added to the DB successfully
+2024-05-17 13:53:36 BeedrillMega Beedrill added to the DB successfully
+2024-05-17 13:53:36 Pidgey added to the DB successfully
+2024-05-17 13:53:36 Pidgeotto added to the DB successfully
+2024-05-17 13:53:36 Pidgeot added to the DB successfully
+2024-05-17 13:53:36 PidgeotMega Pidgeot added to the DB successfully
+2024-05-17 13:53:36 Rattata added to the DB successfully
+2024-05-17 13:53:36 Raticate added to the DB successfully
+2024-05-17 13:53:36 Spearow added to the DB successfully
+2024-05-17 13:53:36 Fearow added to the DB successfully
+2024-05-17 13:53:36 Ekans added to the DB successfully
+2024-05-17 13:53:36 Arbok added to the DB successfully
+2024-05-17 13:53:36 Pikachu added to the DB successfully
+2024-05-17 13:53:36 Raichu added to the DB successfully
+2024-05-17 13:53:36 Sandshrew added to the DB successfully
+2024-05-17 13:53:36 Sandslash added to the DB successfully
+2024-05-17 13:53:36 Nidoran♀ added to the DB successfully
+2024-05-17 13:53:36 Nidorina added to the DB successfully
+2024-05-17 13:53:36 Nidoqueen added to the DB successfully
+2024-05-17 13:53:36 Nidoran♂ added to the DB successfully
+2024-05-17 13:53:36 Nidorino added to the DB successfully
+2024-05-17 13:53:36 Nidoking added to the DB successfully
+2024-05-17 13:53:36 Clefairy added to the DB successfully
+2024-05-17 13:53:36 Clefable added to the DB successfully
+2024-05-17 13:53:36 Vulpix added to the DB successfully
+2024-05-17 13:53:36 Ninetales added to the DB successfully
+2024-05-17 13:53:36 Jigglypuff added to the DB successfully
+2024-05-17 13:53:36 Wigglytuff added to the DB successfully
+2024-05-17 13:53:36 Zubat added to the DB successfully
+2024-05-17 13:53:36 Golbat added to the DB successfully
+2024-05-17 13:53:36 Oddish added to the DB successfully
+2024-05-17 13:53:36 Gloom added to the DB successfully
+2024-05-17 13:53:36 Vileplume added to the DB successfully
+2024-05-17 13:53:36 Paras added to the DB successfully
+2024-05-17 13:53:36 Parasect added to the DB successfully
+2024-05-17 13:53:36 Venonat added to the DB successfully
+2024-05-17 13:53:36 Venomoth added to the DB successfully
+2024-05-17 13:53:36 Diglett added to the DB successfully
+2024-05-17 13:53:36 Dugtrio added to the DB successfully
+2024-05-17 13:53:36 Meowth added to the DB successfully
+2024-05-17 13:53:36 Persian added to the DB successfully
+2024-05-17 13:53:36 Psyduck added to the DB successfully
+2024-05-17 13:53:36 Golduck added to the DB successfully
+2024-05-17 13:53:36 Mankey added to the DB successfully
+2024-05-17 13:53:36 Primeape added to the DB successfully
+2024-05-17 13:53:36 Growlithe added to the DB successfully
+2024-05-17 13:53:36 Arcanine added to the DB successfully
+2024-05-17 13:53:36 Poliwag added to the DB successfully
+2024-05-17 13:53:36 Poliwhirl added to the DB successfully
+2024-05-17 13:53:36 Poliwrath added to the DB successfully
+2024-05-17 13:53:36 Abra added to the DB successfully
+2024-05-17 13:53:36 Kadabra added to the DB successfully
+2024-05-17 13:53:36 Alakazam added to the DB successfully
+2024-05-17 13:53:36 AlakazamMega Alakazam added to the DB successfully
+2024-05-17 13:53:36 Machop added to the DB successfully
+2024-05-17 13:53:36 Machoke added to the DB successfully
+2024-05-17 13:53:36 Machamp added to the DB successfully
+2024-05-17 13:53:36 Bellsprout added to the DB successfully
+2024-05-17 13:53:36 Weepinbell added to the DB successfully
+2024-05-17 13:53:36 Victreebel added to the DB successfully
+2024-05-17 13:53:36 Tentacool added to the DB successfully
+2024-05-17 13:53:36 Tentacruel added to the DB successfully
+2024-05-17 13:53:36 Geodude added to the DB successfully
+2024-05-17 13:53:36 Graveler added to the DB successfully
+2024-05-17 13:53:36 Golem added to the DB successfully
+2024-05-17 13:53:36 Ponyta added to the DB successfully
+2024-05-17 13:53:36 Rapidash added to the DB successfully
+2024-05-17 13:53:36 Slowpoke added to the DB successfully
+2024-05-17 13:53:36 Slowbro added to the DB successfully
+2024-05-17 13:53:36 SlowbroMega Slowbro added to the DB successfully
+2024-05-17 13:53:36 Magnemite added to the DB successfully
+2024-05-17 13:53:36 Magneton added to the DB successfully
+2024-05-17 13:53:36 Farfetch'd added to the DB successfully
+2024-05-17 13:53:36 Doduo added to the DB successfully
+2024-05-17 13:53:36 Dodrio added to the DB successfully
+2024-05-17 13:53:36 Seel added to the DB successfully
+2024-05-17 13:53:36 Dewgong added to the DB successfully
+2024-05-17 13:53:36 Grimer added to the DB successfully
+2024-05-17 13:53:36 Muk added to the DB successfully
+2024-05-17 13:53:36 Shellder added to the DB successfully
+2024-05-17 13:53:36 Cloyster added to the DB successfully
+2024-05-17 13:53:36 Gastly added to the DB successfully
+2024-05-17 13:53:36 Haunter added to the DB successfully
+2024-05-17 13:53:36 Gengar added to the DB successfully
+2024-05-17 13:53:36 GengarMega Gengar added to the DB successfully
+2024-05-17 13:53:36 Onix added to the DB successfully
+2024-05-17 13:53:36 Drowzee added to the DB successfully
+2024-05-17 13:53:36 Hypno added to the DB successfully
+2024-05-17 13:53:36 Krabby added to the DB successfully
+2024-05-17 13:53:36 Kingler added to the DB successfully
+2024-05-17 13:53:36 Voltorb added to the DB successfully
+2024-05-17 13:53:36 Electrode added to the DB successfully
+2024-05-17 13:53:36 Exeggcute added to the DB successfully
+2024-05-17 13:53:36 Exeggutor added to the DB successfully
+2024-05-17 13:53:36 Cubone added to the DB successfully
+2024-05-17 13:53:36 Marowak added to the DB successfully
+2024-05-17 13:53:36 Hitmonlee added to the DB successfully
+2024-05-17 13:53:36 Hitmonchan added to the DB successfully
+2024-05-17 13:53:36 Lickitung added to the DB successfully
+2024-05-17 13:53:36 Koffing added to the DB successfully
+2024-05-17 13:53:36 Weezing added to the DB successfully
+2024-05-17 13:53:36 Rhyhorn added to the DB successfully
+2024-05-17 13:53:36 Rhydon added to the DB successfully
+2024-05-17 13:53:36 Chansey added to the DB successfully
+2024-05-17 13:53:36 Tangela added to the DB successfully
+2024-05-17 13:53:36 Kangaskhan added to the DB successfully
+2024-05-17 13:53:36 KangaskhanMega Kangaskhan added to the DB successfully
+2024-05-17 13:53:36 Horsea added to the DB successfully
+2024-05-17 13:53:36 Seadra added to the DB successfully
+2024-05-17 13:53:36 Goldeen added to the DB successfully
+2024-05-17 13:53:36 Seaking added to the DB successfully
+2024-05-17 13:53:36 Staryu added to the DB successfully
+2024-05-17 13:53:36 Starmie added to the DB successfully
+2024-05-17 13:53:36 Mr. Mime added to the DB successfully
+2024-05-17 13:53:36 Scyther added to the DB successfully
+2024-05-17 13:53:36 Jynx added to the DB successfully
+2024-05-17 13:53:36 Electabuzz added to the DB successfully
+2024-05-17 13:53:36 Magmar added to the DB successfully
+2024-05-17 13:53:36 Pinsir added to the DB successfully
+2024-05-17 13:53:36 PinsirMega Pinsir added to the DB successfully
+2024-05-17 13:53:36 Tauros added to the DB successfully
+2024-05-17 13:53:36 Magikarp added to the DB successfully
+2024-05-17 13:53:36 Gyarados added to the DB successfully
+2024-05-17 13:53:36 GyaradosMega Gyarados added to the DB successfully
+2024-05-17 13:53:36 Lapras added to the DB successfully
+2024-05-17 13:53:36 Ditto added to the DB successfully
+2024-05-17 13:53:36 Eevee added to the DB successfully
+2024-05-17 13:53:36 Vaporeon added to the DB successfully
+2024-05-17 13:53:36 Jolteon added to the DB successfully
+2024-05-17 13:53:36 Flareon added to the DB successfully
+2024-05-17 13:53:36 Porygon added to the DB successfully
+2024-05-17 13:53:36 Omanyte added to the DB successfully
+2024-05-17 13:53:36 Omastar added to the DB successfully
+2024-05-17 13:53:36 Kabuto added to the DB successfully
+2024-05-17 13:53:36 Kabutops added to the DB successfully
+2024-05-17 13:53:36 Aerodactyl added to the DB successfully
+2024-05-17 13:53:36 AerodactylMega Aerodactyl added to the DB successfully
+2024-05-17 13:53:36 Snorlax added to the DB successfully
+2024-05-17 13:53:36 Articuno added to the DB successfully
+2024-05-17 13:53:36 Zapdos added to the DB successfully
+2024-05-17 13:53:36 Moltres added to the DB successfully
+2024-05-17 13:53:36 Dratini added to the DB successfully
+2024-05-17 13:53:36 Dragonair added to the DB successfully
+2024-05-17 13:53:36 Dragonite added to the DB successfully
+2024-05-17 13:53:36 Mewtwo added to the DB successfully
+2024-05-17 13:53:36 MewtwoMega Mewtwo X added to the DB successfully
+2024-05-17 13:53:36 MewtwoMega Mewtwo Y added to the DB successfully
+2024-05-17 13:53:36 Mew added to the DB successfully
+2024-05-17 13:53:36 Chikorita added to the DB successfully
+2024-05-17 13:53:36 Bayleef added to the DB successfully
+2024-05-17 13:53:36 Meganium added to the DB successfully
+2024-05-17 13:53:36 Cyndaquil added to the DB successfully
+2024-05-17 13:53:36 Quilava added to the DB successfully
+2024-05-17 13:53:36 Typhlosion added to the DB successfully
+2024-05-17 13:53:36 Totodile added to the DB successfully
+2024-05-17 13:53:36 Croconaw added to the DB successfully
+2024-05-17 13:53:36 Feraligatr added to the DB successfully
+2024-05-17 13:53:36 Sentret added to the DB successfully
+2024-05-17 13:53:36 Furret added to the DB successfully
+2024-05-17 13:53:36 Hoothoot added to the DB successfully
+2024-05-17 13:53:36 Noctowl added to the DB successfully
+2024-05-17 13:53:36 Ledyba added to the DB successfully
+2024-05-17 13:53:36 Ledian added to the DB successfully
+2024-05-17 13:53:36 Spinarak added to the DB successfully
+2024-05-17 13:53:36 Ariados added to the DB successfully
+2024-05-17 13:53:36 Crobat added to the DB successfully
+2024-05-17 13:53:36 Chinchou added to the DB successfully
+2024-05-17 13:53:36 Lanturn added to the DB successfully
+2024-05-17 13:53:36 Pichu added to the DB successfully
+2024-05-17 13:53:36 Cleffa added to the DB successfully
+2024-05-17 13:53:36 Igglybuff added to the DB successfully
+2024-05-17 13:53:36 Togepi added to the DB successfully
+2024-05-17 13:53:36 Togetic added to the DB successfully
+2024-05-17 13:53:36 Natu added to the DB successfully
+2024-05-17 13:53:36 Xatu added to the DB successfully
+2024-05-17 13:53:36 Mareep added to the DB successfully
+2024-05-17 13:53:36 Flaaffy added to the DB successfully
+2024-05-17 13:53:36 Ampharos added to the DB successfully
+2024-05-17 13:53:36 AmpharosMega Ampharos added to the DB successfully
+2024-05-17 13:53:36 Bellossom added to the DB successfully
+2024-05-17 13:53:36 Marill added to the DB successfully
+2024-05-17 13:53:36 Azumarill added to the DB successfully
+2024-05-17 13:53:36 Sudowoodo added to the DB successfully
+2024-05-17 13:53:36 Politoed added to the DB successfully
+2024-05-17 13:53:36 Hoppip added to the DB successfully
+2024-05-17 13:53:36 Skiploom added to the DB successfully
+2024-05-17 13:53:36 Jumpluff added to the DB successfully
+2024-05-17 13:53:36 Aipom added to the DB successfully
+2024-05-17 13:53:36 Sunkern added to the DB successfully
+2024-05-17 13:53:36 Sunflora added to the DB successfully
+2024-05-17 13:53:36 Yanma added to the DB successfully
+2024-05-17 13:53:36 Wooper added to the DB successfully
+2024-05-17 13:53:36 Quagsire added to the DB successfully
+2024-05-17 13:53:36 Espeon added to the DB successfully
+2024-05-17 13:53:36 Umbreon added to the DB successfully
+2024-05-17 13:53:36 Murkrow added to the DB successfully
+2024-05-17 13:53:36 Slowking added to the DB successfully
+2024-05-17 13:53:36 Misdreavus added to the DB successfully
+2024-05-17 13:53:36 Unown added to the DB successfully
+2024-05-17 13:53:36 Wobbuffet added to the DB successfully
+2024-05-17 13:53:36 Girafarig added to the DB successfully
+2024-05-17 13:53:36 Pineco added to the DB successfully
+2024-05-17 13:53:36 Forretress added to the DB successfully
+2024-05-17 13:53:36 Dunsparce added to the DB successfully
+2024-05-17 13:53:36 Gligar added to the DB successfully
+2024-05-17 13:53:36 Steelix added to the DB successfully
+2024-05-17 13:53:36 SteelixMega Steelix added to the DB successfully
+2024-05-17 13:53:36 Snubbull added to the DB successfully
+2024-05-17 13:53:36 Granbull added to the DB successfully
+2024-05-17 13:53:36 Qwilfish added to the DB successfully
+2024-05-17 13:53:36 Scizor added to the DB successfully
+2024-05-17 13:53:36 ScizorMega Scizor added to the DB successfully
+2024-05-17 13:53:36 Shuckle added to the DB successfully
+2024-05-17 13:53:36 Heracross added to the DB successfully
+2024-05-17 13:53:36 HeracrossMega Heracross added to the DB successfully
+2024-05-17 13:53:36 Sneasel added to the DB successfully
+2024-05-17 13:53:36 Teddiursa added to the DB successfully
+2024-05-17 13:53:36 Ursaring added to the DB successfully
+2024-05-17 13:53:36 Slugma added to the DB successfully
+2024-05-17 13:53:36 Magcargo added to the DB successfully
+2024-05-17 13:53:36 Swinub added to the DB successfully
+2024-05-17 13:53:36 Piloswine added to the DB successfully
+2024-05-17 13:53:36 Corsola added to the DB successfully
+2024-05-17 13:53:36 Remoraid added to the DB successfully
+2024-05-17 13:53:36 Octillery added to the DB successfully
+2024-05-17 13:53:36 Delibird added to the DB successfully
+2024-05-17 13:53:36 Mantine added to the DB successfully
+2024-05-17 13:53:36 Skarmory added to the DB successfully
+2024-05-17 13:53:36 Houndour added to the DB successfully
+2024-05-17 13:53:36 Houndoom added to the DB successfully
+2024-05-17 13:53:36 HoundoomMega Houndoom added to the DB successfully
+2024-05-17 13:53:36 Kingdra added to the DB successfully
+2024-05-17 13:53:36 Phanpy added to the DB successfully
+2024-05-17 13:53:36 Donphan added to the DB successfully
+2024-05-17 13:53:36 Porygon2 added to the DB successfully
+2024-05-17 13:53:36 Stantler added to the DB successfully
+2024-05-17 13:53:36 Smeargle added to the DB successfully
+2024-05-17 13:53:36 Tyrogue added to the DB successfully
+2024-05-17 13:53:36 Hitmontop added to the DB successfully
+2024-05-17 13:53:36 Smoochum added to the DB successfully
+2024-05-17 13:53:36 Elekid added to the DB successfully
+2024-05-17 13:53:36 Magby added to the DB successfully
+2024-05-17 13:53:36 Miltank added to the DB successfully
+2024-05-17 13:53:36 Blissey added to the DB successfully
+2024-05-17 13:53:36 Raikou added to the DB successfully
+2024-05-17 13:53:36 Entei added to the DB successfully
+2024-05-17 13:53:36 Suicune added to the DB successfully
+2024-05-17 13:53:36 Larvitar added to the DB successfully
+2024-05-17 13:53:36 Pupitar added to the DB successfully
+2024-05-17 13:53:36 Tyranitar added to the DB successfully
+2024-05-17 13:53:36 TyranitarMega Tyranitar added to the DB successfully
+2024-05-17 13:53:36 Lugia added to the DB successfully
+2024-05-17 13:53:36 Ho-oh added to the DB successfully
+2024-05-17 13:53:36 Celebi added to the DB successfully
+2024-05-17 13:53:36 Treecko added to the DB successfully
+2024-05-17 13:53:36 Grovyle added to the DB successfully
+2024-05-17 13:53:36 Sceptile added to the DB successfully
+2024-05-17 13:53:36 SceptileMega Sceptile added to the DB successfully
+2024-05-17 13:53:36 Torchic added to the DB successfully
+2024-05-17 13:53:36 Combusken added to the DB successfully
+2024-05-17 13:53:36 Blaziken added to the DB successfully
+2024-05-17 13:53:36 BlazikenMega Blaziken added to the DB successfully
+2024-05-17 13:53:36 Mudkip added to the DB successfully
+2024-05-17 13:53:36 Marshtomp added to the DB successfully
+2024-05-17 13:53:36 Swampert added to the DB successfully
+2024-05-17 13:53:36 SwampertMega Swampert added to the DB successfully
+2024-05-17 13:53:36 Poochyena added to the DB successfully
+2024-05-17 13:53:36 Mightyena added to the DB successfully
+2024-05-17 13:53:36 Zigzagoon added to the DB successfully
+2024-05-17 13:53:36 Linoone added to the DB successfully
+2024-05-17 13:53:36 Wurmple added to the DB successfully
+2024-05-17 13:53:36 Silcoon added to the DB successfully
+2024-05-17 13:53:36 Beautifly added to the DB successfully
+2024-05-17 13:53:36 Cascoon added to the DB successfully
+2024-05-17 13:53:36 Dustox added to the DB successfully
+2024-05-17 13:53:36 Lotad added to the DB successfully
+2024-05-17 13:53:36 Lombre added to the DB successfully
+2024-05-17 13:53:36 Ludicolo added to the DB successfully
+2024-05-17 13:53:36 Seedot added to the DB successfully
+2024-05-17 13:53:36 Nuzleaf added to the DB successfully
+2024-05-17 13:53:36 Shiftry added to the DB successfully
+2024-05-17 13:53:36 Taillow added to the DB successfully
+2024-05-17 13:53:36 Swellow added to the DB successfully
+2024-05-17 13:53:36 Wingull added to the DB successfully
+2024-05-17 13:53:36 Pelipper added to the DB successfully
+2024-05-17 13:53:36 Ralts added to the DB successfully
+2024-05-17 13:53:36 Kirlia added to the DB successfully
+2024-05-17 13:53:36 Gardevoir added to the DB successfully
+2024-05-17 13:53:36 GardevoirMega Gardevoir added to the DB successfully
+2024-05-17 13:53:36 Surskit added to the DB successfully
+2024-05-17 13:53:36 Masquerain added to the DB successfully
+2024-05-17 13:53:36 Shroomish added to the DB successfully
+2024-05-17 13:53:36 Breloom added to the DB successfully
+2024-05-17 13:53:36 Slakoth added to the DB successfully
+2024-05-17 13:53:36 Vigoroth added to the DB successfully
+2024-05-17 13:53:36 Slaking added to the DB successfully
+2024-05-17 13:53:36 Nincada added to the DB successfully
+2024-05-17 13:53:36 Ninjask added to the DB successfully
+2024-05-17 13:53:36 Shedinja added to the DB successfully
+2024-05-17 13:53:36 Whismur added to the DB successfully
+2024-05-17 13:53:36 Loudred added to the DB successfully
+2024-05-17 13:53:36 Exploud added to the DB successfully
+2024-05-17 13:53:36 Makuhita added to the DB successfully
+2024-05-17 13:53:36 Hariyama added to the DB successfully
+2024-05-17 13:53:36 Azurill added to the DB successfully
+2024-05-17 13:53:36 Nosepass added to the DB successfully
+2024-05-17 13:53:36 Skitty added to the DB successfully
+2024-05-17 13:53:36 Delcatty added to the DB successfully
+2024-05-17 13:53:36 Sableye added to the DB successfully
+2024-05-17 13:53:36 SableyeMega Sableye added to the DB successfully
+2024-05-17 13:53:36 Mawile added to the DB successfully
+2024-05-17 13:53:36 MawileMega Mawile added to the DB successfully
+2024-05-17 13:53:36 Aron added to the DB successfully
+2024-05-17 13:53:36 Lairon added to the DB successfully
+2024-05-17 13:53:36 Aggron added to the DB successfully
+2024-05-17 13:53:36 AggronMega Aggron added to the DB successfully
+2024-05-17 13:53:36 Meditite added to the DB successfully
+2024-05-17 13:53:36 Medicham added to the DB successfully
+2024-05-17 13:53:36 MedichamMega Medicham added to the DB successfully
+2024-05-17 13:53:36 Electrike added to the DB successfully
+2024-05-17 13:53:36 Manectric added to the DB successfully
+2024-05-17 13:53:36 ManectricMega Manectric added to the DB successfully
+2024-05-17 13:53:36 Plusle added to the DB successfully
+2024-05-17 13:53:36 Minun added to the DB successfully
+2024-05-17 13:53:36 Volbeat added to the DB successfully
+2024-05-17 13:53:36 Illumise added to the DB successfully
+2024-05-17 13:53:36 Roselia added to the DB successfully
+2024-05-17 13:53:36 Gulpin added to the DB successfully
+2024-05-17 13:53:36 Swalot added to the DB successfully
+2024-05-17 13:53:36 Carvanha added to the DB successfully
+2024-05-17 13:53:36 Sharpedo added to the DB successfully
+2024-05-17 13:53:36 SharpedoMega Sharpedo added to the DB successfully
+2024-05-17 13:53:36 Wailmer added to the DB successfully
+2024-05-17 13:53:36 Wailord added to the DB successfully
+2024-05-17 13:53:36 Numel added to the DB successfully
+2024-05-17 13:53:36 Camerupt added to the DB successfully
+2024-05-17 13:53:36 CameruptMega Camerupt added to the DB successfully
+2024-05-17 13:53:36 Torkoal added to the DB successfully
+2024-05-17 13:53:36 Spoink added to the DB successfully
+2024-05-17 13:53:36 Grumpig added to the DB successfully
+2024-05-17 13:53:36 Spinda added to the DB successfully
+2024-05-17 13:53:36 Trapinch added to the DB successfully
+2024-05-17 13:53:36 Vibrava added to the DB successfully
+2024-05-17 13:53:36 Flygon added to the DB successfully
+2024-05-17 13:53:36 Cacnea added to the DB successfully
+2024-05-17 13:53:36 Cacturne added to the DB successfully
+2024-05-17 13:53:36 Swablu added to the DB successfully
+2024-05-17 13:53:36 Altaria added to the DB successfully
+2024-05-17 13:53:36 AltariaMega Altaria added to the DB successfully
+2024-05-17 13:53:36 Zangoose added to the DB successfully
+2024-05-17 13:53:36 Seviper added to the DB successfully
+2024-05-17 13:53:36 Lunatone added to the DB successfully
+2024-05-17 13:53:36 Solrock added to the DB successfully
+2024-05-17 13:53:36 Barboach added to the DB successfully
+2024-05-17 13:53:36 Whiscash added to the DB successfully
+2024-05-17 13:53:36 Corphish added to the DB successfully
+2024-05-17 13:53:36 Crawdaunt added to the DB successfully
+2024-05-17 13:53:36 Baltoy added to the DB successfully
+2024-05-17 13:53:36 Claydol added to the DB successfully
+2024-05-17 13:53:36 Lileep added to the DB successfully
+2024-05-17 13:53:36 Cradily added to the DB successfully
+2024-05-17 13:53:36 Anorith added to the DB successfully
+2024-05-17 13:53:36 Armaldo added to the DB successfully
+2024-05-17 13:53:36 Feebas added to the DB successfully
+2024-05-17 13:53:36 Milotic added to the DB successfully
+2024-05-17 13:53:36 Castform added to the DB successfully
+2024-05-17 13:53:36 Kecleon added to the DB successfully
+2024-05-17 13:53:36 Shuppet added to the DB successfully
+2024-05-17 13:53:36 Banette added to the DB successfully
+2024-05-17 13:53:36 BanetteMega Banette added to the DB successfully
+2024-05-17 13:53:36 Duskull added to the DB successfully
+2024-05-17 13:53:36 Dusclops added to the DB successfully
+2024-05-17 13:53:36 Tropius added to the DB successfully
+2024-05-17 13:53:36 Chimecho added to the DB successfully
+2024-05-17 13:53:36 Absol added to the DB successfully
+2024-05-17 13:53:36 AbsolMega Absol added to the DB successfully
+2024-05-17 13:53:36 Wynaut added to the DB successfully
+2024-05-17 13:53:36 Snorunt added to the DB successfully
+2024-05-17 13:53:36 Glalie added to the DB successfully
+2024-05-17 13:53:36 GlalieMega Glalie added to the DB successfully
+2024-05-17 13:53:36 Spheal added to the DB successfully
+2024-05-17 13:53:36 Sealeo added to the DB successfully
+2024-05-17 13:53:36 Walrein added to the DB successfully
+2024-05-17 13:53:36 Clamperl added to the DB successfully
+2024-05-17 13:53:36 Huntail added to the DB successfully
+2024-05-17 13:53:36 Gorebyss added to the DB successfully
+2024-05-17 13:53:36 Relicanth added to the DB successfully
+2024-05-17 13:53:36 Luvdisc added to the DB successfully
+2024-05-17 13:53:36 Bagon added to the DB successfully
+2024-05-17 13:53:36 Shelgon added to the DB successfully
+2024-05-17 13:53:36 Salamence added to the DB successfully
+2024-05-17 13:53:36 SalamenceMega Salamence added to the DB successfully
+2024-05-17 13:53:36 Beldum added to the DB successfully
+2024-05-17 13:53:36 Metang added to the DB successfully
+2024-05-17 13:53:36 Metagross added to the DB successfully
+2024-05-17 13:53:36 MetagrossMega Metagross added to the DB successfully
+2024-05-17 13:53:36 Regirock added to the DB successfully
+2024-05-17 13:53:36 Regice added to the DB successfully
+2024-05-17 13:53:36 Registeel added to the DB successfully
+2024-05-17 13:53:36 Latias added to the DB successfully
+2024-05-17 13:53:36 LatiasMega Latias added to the DB successfully
+2024-05-17 13:53:36 Latios added to the DB successfully
+2024-05-17 13:53:36 LatiosMega Latios added to the DB successfully
+2024-05-17 13:53:36 Kyogre added to the DB successfully
+2024-05-17 13:53:36 KyogrePrimal Kyogre added to the DB successfully
+2024-05-17 13:53:36 Groudon added to the DB successfully
+2024-05-17 13:53:36 GroudonPrimal Groudon added to the DB successfully
+2024-05-17 13:53:36 Rayquaza added to the DB successfully
+2024-05-17 13:53:36 RayquazaMega Rayquaza added to the DB successfully
+2024-05-17 13:53:36 Jirachi added to the DB successfully
+2024-05-17 13:53:36 DeoxysNormal Forme added to the DB successfully
+2024-05-17 13:53:36 DeoxysAttack Forme added to the DB successfully
+2024-05-17 13:53:36 DeoxysDefense Forme added to the DB successfully
+2024-05-17 13:53:36 DeoxysSpeed Forme added to the DB successfully
+2024-05-17 13:53:36 Turtwig added to the DB successfully
+2024-05-17 13:53:36 Grotle added to the DB successfully
+2024-05-17 13:53:36 Torterra added to the DB successfully
+2024-05-17 13:53:36 Chimchar added to the DB successfully
+2024-05-17 13:53:36 Monferno added to the DB successfully
+2024-05-17 13:53:36 Infernape added to the DB successfully
+2024-05-17 13:53:36 Piplup added to the DB successfully
+2024-05-17 13:53:36 Prinplup added to the DB successfully
+2024-05-17 13:53:36 Empoleon added to the DB successfully
+2024-05-17 13:53:36 Starly added to the DB successfully
+2024-05-17 13:53:36 Staravia added to the DB successfully
+2024-05-17 13:53:36 Staraptor added to the DB successfully
+2024-05-17 13:53:36 Bidoof added to the DB successfully
+2024-05-17 13:53:36 Bibarel added to the DB successfully
+2024-05-17 13:53:36 Kricketot added to the DB successfully
+2024-05-17 13:53:36 Kricketune added to the DB successfully
+2024-05-17 13:53:36 Shinx added to the DB successfully
+2024-05-17 13:53:36 Luxio added to the DB successfully
+2024-05-17 13:53:36 Luxray added to the DB successfully
+2024-05-17 13:53:36 Budew added to the DB successfully
+2024-05-17 13:53:36 Roserade added to the DB successfully
+2024-05-17 13:53:36 Cranidos added to the DB successfully
+2024-05-17 13:53:36 Rampardos added to the DB successfully
+2024-05-17 13:53:36 Shieldon added to the DB successfully
+2024-05-17 13:53:36 Bastiodon added to the DB successfully
+2024-05-17 13:53:36 Burmy added to the DB successfully
+2024-05-17 13:53:36 WormadamPlant Cloak added to the DB successfully
+2024-05-17 13:53:36 WormadamSandy Cloak added to the DB successfully
+2024-05-17 13:53:36 WormadamTrash Cloak added to the DB successfully
+2024-05-17 13:53:36 Mothim added to the DB successfully
+2024-05-17 13:53:36 Combee added to the DB successfully
+2024-05-17 13:53:36 Vespiquen added to the DB successfully
+2024-05-17 13:53:36 Pachirisu added to the DB successfully
+2024-05-17 13:53:36 Buizel added to the DB successfully
+2024-05-17 13:53:36 Floatzel added to the DB successfully
+2024-05-17 13:53:36 Cherubi added to the DB successfully
+2024-05-17 13:53:36 Cherrim added to the DB successfully
+2024-05-17 13:53:36 Shellos added to the DB successfully
+2024-05-17 13:53:36 Gastrodon added to the DB successfully
+2024-05-17 13:53:36 Ambipom added to the DB successfully
+2024-05-17 13:53:36 Drifloon added to the DB successfully
+2024-05-17 13:53:36 Drifblim added to the DB successfully
+2024-05-17 13:53:36 Buneary added to the DB successfully
+2024-05-17 13:53:36 Lopunny added to the DB successfully
+2024-05-17 13:53:36 LopunnyMega Lopunny added to the DB successfully
+2024-05-17 13:53:36 Mismagius added to the DB successfully
+2024-05-17 13:53:36 Honchkrow added to the DB successfully
+2024-05-17 13:53:36 Glameow added to the DB successfully
+2024-05-17 13:53:36 Purugly added to the DB successfully
+2024-05-17 13:53:36 Chingling added to the DB successfully
+2024-05-17 13:53:36 Stunky added to the DB successfully
+2024-05-17 13:53:36 Skuntank added to the DB successfully
+2024-05-17 13:53:36 Bronzor added to the DB successfully
+2024-05-17 13:53:36 Bronzong added to the DB successfully
+2024-05-17 13:53:36 Bonsly added to the DB successfully
+2024-05-17 13:53:36 Mime Jr. added to the DB successfully
+2024-05-17 13:53:36 Happiny added to the DB successfully
+2024-05-17 13:53:36 Chatot added to the DB successfully
+2024-05-17 13:53:36 Spiritomb added to the DB successfully
+2024-05-17 13:53:36 Gible added to the DB successfully
+2024-05-17 13:53:36 Gabite added to the DB successfully
+2024-05-17 13:53:36 Garchomp added to the DB successfully
+2024-05-17 13:53:36 GarchompMega Garchomp added to the DB successfully
+2024-05-17 13:53:36 Munchlax added to the DB successfully
+2024-05-17 13:53:36 Riolu added to the DB successfully
+2024-05-17 13:53:36 Lucario added to the DB successfully
+2024-05-17 13:53:36 LucarioMega Lucario added to the DB successfully
+2024-05-17 13:53:36 Hippopotas added to the DB successfully
+2024-05-17 13:53:36 Hippowdon added to the DB successfully
+2024-05-17 13:53:36 Skorupi added to the DB successfully
+2024-05-17 13:53:36 Drapion added to the DB successfully
+2024-05-17 13:53:36 Croagunk added to the DB successfully
+2024-05-17 13:53:36 Toxicroak added to the DB successfully
+2024-05-17 13:53:36 Carnivine added to the DB successfully
+2024-05-17 13:53:36 Finneon added to the DB successfully
+2024-05-17 13:53:36 Lumineon added to the DB successfully
+2024-05-17 13:53:36 Mantyke added to the DB successfully
+2024-05-17 13:53:36 Snover added to the DB successfully
+2024-05-17 13:53:36 Abomasnow added to the DB successfully
+2024-05-17 13:53:36 AbomasnowMega Abomasnow added to the DB successfully
+2024-05-17 13:53:36 Weavile added to the DB successfully
+2024-05-17 13:53:36 Magnezone added to the DB successfully
+2024-05-17 13:53:36 Lickilicky added to the DB successfully
+2024-05-17 13:53:36 Rhyperior added to the DB successfully
+2024-05-17 13:53:36 Tangrowth added to the DB successfully
+2024-05-17 13:53:36 Electivire added to the DB successfully
+2024-05-17 13:53:36 Magmortar added to the DB successfully
+2024-05-17 13:53:36 Togekiss added to the DB successfully
+2024-05-17 13:53:36 Yanmega added to the DB successfully
+2024-05-17 13:53:36 Leafeon added to the DB successfully
+2024-05-17 13:53:36 Glaceon added to the DB successfully
+2024-05-17 13:53:36 Gliscor added to the DB successfully
+2024-05-17 13:53:36 Mamoswine added to the DB successfully
+2024-05-17 13:53:36 Porygon-Z added to the DB successfully
+2024-05-17 13:53:36 Gallade added to the DB successfully
+2024-05-17 13:53:36 GalladeMega Gallade added to the DB successfully
+2024-05-17 13:53:36 Probopass added to the DB successfully
+2024-05-17 13:53:36 Dusknoir added to the DB successfully
+2024-05-17 13:53:36 Froslass added to the DB successfully
+2024-05-17 13:53:36 Rotom added to the DB successfully
+2024-05-17 13:53:36 RotomHeat Rotom added to the DB successfully
+2024-05-17 13:53:36 RotomWash Rotom added to the DB successfully
+2024-05-17 13:53:36 RotomFrost Rotom added to the DB successfully
+2024-05-17 13:53:36 RotomFan Rotom added to the DB successfully
+2024-05-17 13:53:36 RotomMow Rotom added to the DB successfully
+2024-05-17 13:53:36 Uxie added to the DB successfully
+2024-05-17 13:53:36 Mesprit added to the DB successfully
+2024-05-17 13:53:36 Azelf added to the DB successfully
+2024-05-17 13:53:36 Dialga added to the DB successfully
+2024-05-17 13:53:36 Palkia added to the DB successfully
+2024-05-17 13:53:36 Heatran added to the DB successfully
+2024-05-17 13:53:36 Regigigas added to the DB successfully
+2024-05-17 13:53:36 GiratinaAltered Forme added to the DB successfully
+2024-05-17 13:53:36 GiratinaOrigin Forme added to the DB successfully
+2024-05-17 13:53:36 Cresselia added to the DB successfully
+2024-05-17 13:53:36 Phione added to the DB successfully
+2024-05-17 13:53:36 Manaphy added to the DB successfully
+2024-05-17 13:53:36 Darkrai added to the DB successfully
+2024-05-17 13:53:36 ShayminLand Forme added to the DB successfully
+2024-05-17 13:53:36 ShayminSky Forme added to the DB successfully
+2024-05-17 13:53:36 Arceus added to the DB successfully
+2024-05-17 13:53:36 Victini added to the DB successfully
+2024-05-17 13:53:36 Snivy added to the DB successfully
+2024-05-17 13:53:36 Servine added to the DB successfully
+2024-05-17 13:53:36 Serperior added to the DB successfully
+2024-05-17 13:53:36 Tepig added to the DB successfully
+2024-05-17 13:53:36 Pignite added to the DB successfully
+2024-05-17 13:53:36 Emboar added to the DB successfully
+2024-05-17 13:53:36 Oshawott added to the DB successfully
+2024-05-17 13:53:36 Dewott added to the DB successfully
+2024-05-17 13:53:36 Samurott added to the DB successfully
+2024-05-17 13:53:36 Patrat added to the DB successfully
+2024-05-17 13:53:36 Watchog added to the DB successfully
+2024-05-17 13:53:36 Lillipup added to the DB successfully
+2024-05-17 13:53:36 Herdier added to the DB successfully
+2024-05-17 13:53:36 Stoutland added to the DB successfully
+2024-05-17 13:53:36 Purrloin added to the DB successfully
+2024-05-17 13:53:36 Liepard added to the DB successfully
+2024-05-17 13:53:36 Pansage added to the DB successfully
+2024-05-17 13:53:36 Simisage added to the DB successfully
+2024-05-17 13:53:36 Pansear added to the DB successfully
+2024-05-17 13:53:36 Simisear added to the DB successfully
+2024-05-17 13:53:36 Panpour added to the DB successfully
+2024-05-17 13:53:36 Simipour added to the DB successfully
+2024-05-17 13:53:36 Munna added to the DB successfully
+2024-05-17 13:53:36 Musharna added to the DB successfully
+2024-05-17 13:53:36 Pidove added to the DB successfully
+2024-05-17 13:53:36 Tranquill added to the DB successfully
+2024-05-17 13:53:36 Unfezant added to the DB successfully
+2024-05-17 13:53:36 Blitzle added to the DB successfully
+2024-05-17 13:53:36 Zebstrika added to the DB successfully
+2024-05-17 13:53:36 Roggenrola added to the DB successfully
+2024-05-17 13:53:36 Boldore added to the DB successfully
+2024-05-17 13:53:36 Gigalith added to the DB successfully
+2024-05-17 13:53:36 Woobat added to the DB successfully
+2024-05-17 13:53:36 Swoobat added to the DB successfully
+2024-05-17 13:53:36 Drilbur added to the DB successfully
+2024-05-17 13:53:36 Excadrill added to the DB successfully
+2024-05-17 13:53:36 Audino added to the DB successfully
+2024-05-17 13:53:36 AudinoMega Audino added to the DB successfully
+2024-05-17 13:53:36 Timburr added to the DB successfully
+2024-05-17 13:53:36 Gurdurr added to the DB successfully
+2024-05-17 13:53:36 Conkeldurr added to the DB successfully
+2024-05-17 13:53:36 Tympole added to the DB successfully
+2024-05-17 13:53:36 Palpitoad added to the DB successfully
+2024-05-17 13:53:36 Seismitoad added to the DB successfully
+2024-05-17 13:53:36 Throh added to the DB successfully
+2024-05-17 13:53:36 Sawk added to the DB successfully
+2024-05-17 13:53:36 Sewaddle added to the DB successfully
+2024-05-17 13:53:36 Swadloon added to the DB successfully
+2024-05-17 13:53:36 Leavanny added to the DB successfully
+2024-05-17 13:53:36 Venipede added to the DB successfully
+2024-05-17 13:53:36 Whirlipede added to the DB successfully
+2024-05-17 13:53:36 Scolipede added to the DB successfully
+2024-05-17 13:53:36 Cottonee added to the DB successfully
+2024-05-17 13:53:36 Whimsicott added to the DB successfully
+2024-05-17 13:53:36 Petilil added to the DB successfully
+2024-05-17 13:53:36 Lilligant added to the DB successfully
+2024-05-17 13:53:36 Basculin added to the DB successfully
+2024-05-17 13:53:36 Sandile added to the DB successfully
+2024-05-17 13:53:36 Krokorok added to the DB successfully
+2024-05-17 13:53:36 Krookodile added to the DB successfully
+2024-05-17 13:53:36 Darumaka added to the DB successfully
+2024-05-17 13:53:36 DarmanitanStandard Mode added to the DB successfully
+2024-05-17 13:53:36 DarmanitanZen Mode added to the DB successfully
+2024-05-17 13:53:36 Maractus added to the DB successfully
+2024-05-17 13:53:36 Dwebble added to the DB successfully
+2024-05-17 13:53:36 Crustle added to the DB successfully
+2024-05-17 13:53:36 Scraggy added to the DB successfully
+2024-05-17 13:53:36 Scrafty added to the DB successfully
+2024-05-17 13:53:36 Sigilyph added to the DB successfully
+2024-05-17 13:53:36 Yamask added to the DB successfully
+2024-05-17 13:53:36 Cofagrigus added to the DB successfully
+2024-05-17 13:53:36 Tirtouga added to the DB successfully
+2024-05-17 13:53:36 Carracosta added to the DB successfully
+2024-05-17 13:53:36 Archen added to the DB successfully
+2024-05-17 13:53:36 Archeops added to the DB successfully
+2024-05-17 13:53:36 Trubbish added to the DB successfully
+2024-05-17 13:53:36 Garbodor added to the DB successfully
+2024-05-17 13:53:36 Zorua added to the DB successfully
+2024-05-17 13:53:36 Zoroark added to the DB successfully
+2024-05-17 13:53:36 Minccino added to the DB successfully
+2024-05-17 13:53:36 Cinccino added to the DB successfully
+2024-05-17 13:53:36 Gothita added to the DB successfully
+2024-05-17 13:53:36 Gothorita added to the DB successfully
+2024-05-17 13:53:36 Gothitelle added to the DB successfully
+2024-05-17 13:53:36 Solosis added to the DB successfully
+2024-05-17 13:53:36 Duosion added to the DB successfully
+2024-05-17 13:53:36 Reuniclus added to the DB successfully
+2024-05-17 13:53:36 Ducklett added to the DB successfully
+2024-05-17 13:53:36 Swanna added to the DB successfully
+2024-05-17 13:53:36 Vanillite added to the DB successfully
+2024-05-17 13:53:36 Vanillish added to the DB successfully
+2024-05-17 13:53:36 Vanilluxe added to the DB successfully
+2024-05-17 13:53:36 Deerling added to the DB successfully
+2024-05-17 13:53:36 Sawsbuck added to the DB successfully
+2024-05-17 13:53:36 Emolga added to the DB successfully
+2024-05-17 13:53:36 Karrablast added to the DB successfully
+2024-05-17 13:53:36 Escavalier added to the DB successfully
+2024-05-17 13:53:36 Foongus added to the DB successfully
+2024-05-17 13:53:36 Amoonguss added to the DB successfully
+2024-05-17 13:53:36 Frillish added to the DB successfully
+2024-05-17 13:53:36 Jellicent added to the DB successfully
+2024-05-17 13:53:36 Alomomola added to the DB successfully
+2024-05-17 13:53:36 Joltik added to the DB successfully
+2024-05-17 13:53:36 Galvantula added to the DB successfully
+2024-05-17 13:53:36 Ferroseed added to the DB successfully
+2024-05-17 13:53:36 Ferrothorn added to the DB successfully
+2024-05-17 13:53:36 Klink added to the DB successfully
+2024-05-17 13:53:36 Klang added to the DB successfully
+2024-05-17 13:53:36 Klinklang added to the DB successfully
+2024-05-17 13:53:36 Tynamo added to the DB successfully
+2024-05-17 13:53:36 Eelektrik added to the DB successfully
+2024-05-17 13:53:36 Eelektross added to the DB successfully
+2024-05-17 13:53:36 Elgyem added to the DB successfully
+2024-05-17 13:53:36 Beheeyem added to the DB successfully
+2024-05-17 13:53:36 Litwick added to the DB successfully
+2024-05-17 13:53:36 Lampent added to the DB successfully
+2024-05-17 13:53:36 Chandelure added to the DB successfully
+2024-05-17 13:53:36 Axew added to the DB successfully
+2024-05-17 13:53:36 Fraxure added to the DB successfully
+2024-05-17 13:53:36 Haxorus added to the DB successfully
+2024-05-17 13:53:36 Cubchoo added to the DB successfully
+2024-05-17 13:53:36 Beartic added to the DB successfully
+2024-05-17 13:53:36 Cryogonal added to the DB successfully
+2024-05-17 13:53:36 Shelmet added to the DB successfully
+2024-05-17 13:53:36 Accelgor added to the DB successfully
+2024-05-17 13:53:36 Stunfisk added to the DB successfully
+2024-05-17 13:53:36 Mienfoo added to the DB successfully
+2024-05-17 13:53:36 Mienshao added to the DB successfully
+2024-05-17 13:53:36 Druddigon added to the DB successfully
+2024-05-17 13:53:36 Golett added to the DB successfully
+2024-05-17 13:53:36 Golurk added to the DB successfully
+2024-05-17 13:53:36 Pawniard added to the DB successfully
+2024-05-17 13:53:36 Bisharp added to the DB successfully
+2024-05-17 13:53:36 Bouffalant added to the DB successfully
+2024-05-17 13:53:36 Rufflet added to the DB successfully
+2024-05-17 13:53:36 Braviary added to the DB successfully
+2024-05-17 13:53:36 Vullaby added to the DB successfully
+2024-05-17 13:53:36 Mandibuzz added to the DB successfully
+2024-05-17 13:53:36 Heatmor added to the DB successfully
+2024-05-17 13:53:36 Durant added to the DB successfully
+2024-05-17 13:53:36 Deino added to the DB successfully
+2024-05-17 13:53:36 Zweilous added to the DB successfully
+2024-05-17 13:53:36 Hydreigon added to the DB successfully
+2024-05-17 13:53:36 Larvesta added to the DB successfully
+2024-05-17 13:53:36 Volcarona added to the DB successfully
+2024-05-17 13:53:36 Cobalion added to the DB successfully
+2024-05-17 13:53:36 Terrakion added to the DB successfully
+2024-05-17 13:53:36 Virizion added to the DB successfully
+2024-05-17 13:53:36 TornadusIncarnate Forme added to the DB successfully
+2024-05-17 13:53:36 TornadusTherian Forme added to the DB successfully
+2024-05-17 13:53:36 ThundurusIncarnate Forme added to the DB successfully
+2024-05-17 13:53:36 ThundurusTherian Forme added to the DB successfully
+2024-05-17 13:53:36 Reshiram added to the DB successfully
+2024-05-17 13:53:36 Zekrom added to the DB successfully
+2024-05-17 13:53:36 LandorusIncarnate Forme added to the DB successfully
+2024-05-17 13:53:36 LandorusTherian Forme added to the DB successfully
+2024-05-17 13:53:36 Kyurem added to the DB successfully
+2024-05-17 13:53:36 KyuremBlack Kyurem added to the DB successfully
+2024-05-17 13:53:36 KyuremWhite Kyurem added to the DB successfully
+2024-05-17 13:53:36 KeldeoOrdinary Forme added to the DB successfully
+2024-05-17 13:53:36 KeldeoResolute Forme added to the DB successfully
+2024-05-17 13:53:36 MeloettaAria Forme added to the DB successfully
+2024-05-17 13:53:36 MeloettaPirouette Forme added to the DB successfully
+2024-05-17 13:53:36 Genesect added to the DB successfully
+2024-05-17 13:53:36 Chespin added to the DB successfully
+2024-05-17 13:53:36 Quilladin added to the DB successfully
+2024-05-17 13:53:36 Chesnaught added to the DB successfully
+2024-05-17 13:53:36 Fennekin added to the DB successfully
+2024-05-17 13:53:36 Braixen added to the DB successfully
+2024-05-17 13:53:36 Delphox added to the DB successfully
+2024-05-17 13:53:36 Froakie added to the DB successfully
+2024-05-17 13:53:36 Frogadier added to the DB successfully
+2024-05-17 13:53:36 Greninja added to the DB successfully
+2024-05-17 13:53:36 Bunnelby added to the DB successfully
+2024-05-17 13:53:36 Diggersby added to the DB successfully
+2024-05-17 13:53:36 Fletchling added to the DB successfully
+2024-05-17 13:53:36 Fletchinder added to the DB successfully
+2024-05-17 13:53:36 Talonflame added to the DB successfully
+2024-05-17 13:53:36 Scatterbug added to the DB successfully
+2024-05-17 13:53:36 Spewpa added to the DB successfully
+2024-05-17 13:53:36 Vivillon added to the DB successfully
+2024-05-17 13:53:36 Litleo added to the DB successfully
+2024-05-17 13:53:36 Pyroar added to the DB successfully
+2024-05-17 13:53:36 Flabébé added to the DB successfully
+2024-05-17 13:53:36 Floette added to the DB successfully
+2024-05-17 13:53:36 Florges added to the DB successfully
+2024-05-17 13:53:36 Skiddo added to the DB successfully
+2024-05-17 13:53:36 Gogoat added to the DB successfully
+2024-05-17 13:53:36 Pancham added to the DB successfully
+2024-05-17 13:53:36 Pangoro added to the DB successfully
+2024-05-17 13:53:36 Furfrou added to the DB successfully
+2024-05-17 13:53:36 Espurr added to the DB successfully
+2024-05-17 13:53:36 MeowsticMale added to the DB successfully
+2024-05-17 13:53:36 MeowsticFemale added to the DB successfully
+2024-05-17 13:53:36 Honedge added to the DB successfully
+2024-05-17 13:53:36 Doublade added to the DB successfully
+2024-05-17 13:53:36 AegislashBlade Forme added to the DB successfully
+2024-05-17 13:53:36 AegislashShield Forme added to the DB successfully
+2024-05-17 13:53:36 Spritzee added to the DB successfully
+2024-05-17 13:53:36 Aromatisse added to the DB successfully
+2024-05-17 13:53:36 Swirlix added to the DB successfully
+2024-05-17 13:53:36 Slurpuff added to the DB successfully
+2024-05-17 13:53:36 Inkay added to the DB successfully
+2024-05-17 13:53:36 Malamar added to the DB successfully
+2024-05-17 13:53:36 Binacle added to the DB successfully
+2024-05-17 13:53:36 Barbaracle added to the DB successfully
+2024-05-17 13:53:36 Skrelp added to the DB successfully
+2024-05-17 13:53:36 Dragalge added to the DB successfully
+2024-05-17 13:53:36 Clauncher added to the DB successfully
+2024-05-17 13:53:36 Clawitzer added to the DB successfully
+2024-05-17 13:53:36 Helioptile added to the DB successfully
+2024-05-17 13:53:36 Heliolisk added to the DB successfully
+2024-05-17 13:53:36 Tyrunt added to the DB successfully
+2024-05-17 13:53:36 Tyrantrum added to the DB successfully
+2024-05-17 13:53:36 Amaura added to the DB successfully
+2024-05-17 13:53:36 Aurorus added to the DB successfully
+2024-05-17 13:53:36 Sylveon added to the DB successfully
+2024-05-17 13:53:36 Hawlucha added to the DB successfully
+2024-05-17 13:53:36 Dedenne added to the DB successfully
+2024-05-17 13:53:36 Carbink added to the DB successfully
+2024-05-17 13:53:36 Goomy added to the DB successfully
+2024-05-17 13:53:36 Sliggoo added to the DB successfully
+2024-05-17 13:53:36 Goodra added to the DB successfully
+2024-05-17 13:53:36 Klefki added to the DB successfully
+2024-05-17 13:53:36 Phantump added to the DB successfully
+2024-05-17 13:53:36 Trevenant added to the DB successfully
+2024-05-17 13:53:36 PumpkabooAverage Size added to the DB successfully
+2024-05-17 13:53:36 PumpkabooSmall Size added to the DB successfully
+2024-05-17 13:53:36 PumpkabooLarge Size added to the DB successfully
+2024-05-17 13:53:36 PumpkabooSuper Size added to the DB successfully
+2024-05-17 13:53:36 GourgeistAverage Size added to the DB successfully
+2024-05-17 13:53:36 GourgeistSmall Size added to the DB successfully
+2024-05-17 13:53:36 GourgeistLarge Size added to the DB successfully
+2024-05-17 13:53:36 GourgeistSuper Size added to the DB successfully
+2024-05-17 13:53:36 Bergmite added to the DB successfully
+2024-05-17 13:53:36 Avalugg added to the DB successfully
+2024-05-17 13:53:36 Noibat added to the DB successfully
+2024-05-17 13:53:36 Noivern added to the DB successfully
+2024-05-17 13:53:36 Xerneas added to the DB successfully
+2024-05-17 13:53:36 Yveltal added to the DB successfully
+2024-05-17 13:53:36 Zygarde50% Forme added to the DB successfully
+2024-05-17 13:53:36 Diancie added to the DB successfully
+2024-05-17 13:53:36 DiancieMega Diancie added to the DB successfully
+2024-05-17 13:53:36 HoopaHoopa Confined added to the DB successfully
+2024-05-17 13:53:36 HoopaHoopa Unbound added to the DB successfully
+2024-05-17 13:53:36 Volcanion added to the DB successfully
+2024-05-17 13:53:36 Successfully fetched legendaries
+2024-05-17 13:53:36 Pokemon JSON created
